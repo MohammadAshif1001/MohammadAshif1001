@@ -1,4 +1,5 @@
-Hi there! I'm Mohammd Ashif, a computer science student pursuing a BTech degree at Khwaja Moinuddin Chishti Language University Lucknow. I have strong technical knowladge.
+Hi there! I'm Mohammd Ashif, a computer science student pursuing a BTech degree at Khwaja Moinuddin Chishti Language University Lucknow.
+
 
 
 ## 🌐 Socials:
