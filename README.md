@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/MohammadAshif1001/MohammadAshif1001/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/MohammadAshif1001/MohammadAshif1001/blob/main/images/welcome.png?raw=true
+" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Mohammad Ashif, A Fullstack Web Developer." src="images/ashif_note.svg" />
