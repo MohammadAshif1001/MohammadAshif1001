@@ -7,7 +7,7 @@
 <h1 align="center"><b>Hi , I'm Mohammad Ashif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Cashjila+Founder,;Active+Learner/Researcher..<3"></a>
 </p>
 
 
@@ -115,4 +115,4 @@
 [![Dev Community](https://img.shields.io/badge/Dev-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/mohammadashif)
 
 <br><br>
-![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)
+![](https://visitcount.itsvg.in/api?id=MohammadAshif1001&icon=2&color=1)
