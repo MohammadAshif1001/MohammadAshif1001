@@ -115,4 +115,5 @@
 [![Dev Community](https://img.shields.io/badge/Dev-%23000000.svg?logo=dev.to&logoColor=white)](https://dev.to/mohammadashif)
 
 <br><br>
-![](https://visitcount.itsvg.in/api?id=MohammadAshif1001&icon=2&color=1)
+
+![](https://komarev.com/ghpvc/?username=MohammadAshif1001&base=1800)
