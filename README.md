@@ -7,7 +7,7 @@
 <h1 align="center"><b>Hi , I'm Mohammad Ashif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Cashjila+Founder,;Active+Learner/Researcher..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=KMCLU+Student,;Bug+Bounty+Hunter,;Cashjila+Founder,;Full-stack+Developer,;Active+Learner/Researcher..<3"></a>
 </p>
 
 
@@ -18,7 +18,6 @@
 <br>
 
 - 👋 Hi, I’m @Mohammad Ashif
-- 👀 I’m a Fulstac Devloper.
 - 🌱 I’m currently learning with Google.
 - 🎓 Pursuing a BTech degree in Computer Science at Khwaja Moinuddin Chishti Language University, Lucknow.
 - 🚀 Always eager to explore the latest technologies and techniques in Computer Science.
