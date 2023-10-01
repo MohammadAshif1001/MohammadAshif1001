@@ -33,7 +33,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://cashjila.com">
+<a href="#?-SOON">
 <strong>Visit my personal website</strong>
 <br />
 <br />
