@@ -1,11 +1,43 @@
 <div align="center">
-  <img src="https://github.com/MohammadAshif1001/MohammadAshif1001/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/MohammadAshif1001/MohammadAshif1001/blob/main/Assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Mohammad Ashif, A Fullstack Web Developer." src="https://github.com/MohammadAshif1001/MohammadAshif1001/blob/main/images/ashif_note.svg?raw=true" />
-  <br />
-  <br />
-</div>
+<h1 align="Center">
+    <br>
+    Welcome to My Github Profile 
+  <br>
+</h1>
+
+
+<h1 align="center"><b>Hi , I'm Mohammad Ashif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
+</p>
+
+
+
+## <picture><img src = "https://github.com/Mohammadashif1001/Mohammadashif1001/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
+<picture> <img align="right" src="#"></picture>
+
+<br>
+
+
+
+- 👋 Hi, I’m @Mohammad Ashif
+- 👀 I’m a Fulstac Devloper.
+- 🌱 I’m currently learning with Google.
+- 🎓 Pursuing a BTech degree in Computer Science at Khwaja Moinuddin Chishti Language University, Lucknow.
+- 🚀 Always eager to explore the latest technologies and techniques in Computer Science.
+- 🤖 Enjoys solving business problems with innovative algorithms and effectively communicating complex ideas to stakeholders.
+- 🔍 Currently involved in other exciting projects (stay tuned for updates!).
+- 💞️ I’m looking to collaborate with recent Project.
+- 📫 How to reach me .. By my Instagram [Id](https://instagram.com/1m.ashif).
+- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-ashif-cashjila) if you have ideas or suggestions. I consider you a friend and value your input.
+- Learning new technologies everyday to become better than my past self.
+ 
+ 
+<br>
 
 <!-- Social -->
 <table width="100%" align="center">
@@ -39,11 +71,7 @@
 </tr>
 </table>
 
----
 
-Hi there! I'm Mohammd Ashif, a computer science student pursuing a BTech degree at Khwaja Moinuddin Chishti Language University, Lucknow.
-
----
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MohammadAshif1001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
