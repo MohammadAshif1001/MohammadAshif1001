@@ -10,8 +10,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=KMCLU+Student,;Bug+Bounty+Hunter,;Cashjila+Founder,;Full-stack+Developer,;Active+Learner/Researcher..<3"></a>
 </p>
 
-
-
 ## <picture><img src = "https://github.com/Mohammadashif1001/Mohammadashif1001/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="#"></picture>
 
