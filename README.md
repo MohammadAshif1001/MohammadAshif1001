@@ -2,12 +2,7 @@
   <img src="https://github.com/MohammadAshif1001/MohammadAshif1001/blob/main/Assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-<h1 align="Center">
-    <br>
-    Welcome to My Github Profile 
-  <br>
-</h1>
-
+</div>
 
 <h1 align="center"><b>Hi , I'm Mohammad Ashif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
