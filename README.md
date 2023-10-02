@@ -16,10 +16,9 @@
 
 - 👋 Hi, I’m @Mohammad Ashif
 - 🌱 I’m currently learning with Google.
-- 🎓 Pursuing a BTech degree in Computer Science at Khwaja Moinuddin Chishti Language University, Lucknow.
 - 🚀 Always eager to explore the latest technologies and techniques in Computer Science.
 - 🤖 Enjoys solving business problems with innovative algorithms and effectively communicating complex ideas to stakeholders.
-- 🔍 Currently involved in other exciting projects (stay tuned for updates!).
+- 🔍 Currently involved in some big projects (stay tuned for updates!).
 - 💞️ I’m looking to collaborate with recent Project.
 - 📫 How to reach me .. By my Instagram [Id](https://instagram.com/1m.ashif).
 - 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-ashif-cashjila) if you have ideas or suggestions. I consider you a friend and value your input.
