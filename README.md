@@ -13,7 +13,6 @@
 ## <picture><img src = "https://github.com/Mohammadashif1001/Mohammadashif1001/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 <picture> <img align="right" src="#"></picture>
 
-<br>
 
 - 👋 Hi, I’m @Mohammad Ashif
 - 🌱 I’m currently learning with Google.
