@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/MohammadAshif1001/MohammadAshif1001/blob/main/Assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+<!--   <img src="https://github.com/MohammadAshif1001/MohammadAshif1001/blob/main/Assets/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <br />
+  <br /> -->
 </div>
 
 <h1 align="center"><b>Hi , I'm Mohammad Ashif </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
