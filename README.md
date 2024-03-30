@@ -31,7 +31,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="#?-SOON">
+<a href="labs.cashjila.com/portfolio-jila/src">
 <strong>Visit my personal website</strong>
 <br />
 <br />
